@@ -9,6 +9,6 @@ class Dog
      puts "Mutt"
     @breed = breed
  #binding.pry
- end
-  
+  end
+end
 end
