@@ -5,6 +5,8 @@ class Dog
   
   def initialize(name, breed)
     @name = name
+   if breed = []
+     puts "Mutt"
     @breed = breed
  #binding.pry
  end
