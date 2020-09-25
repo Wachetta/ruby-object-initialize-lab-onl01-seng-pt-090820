@@ -8,6 +8,6 @@ class Dog
     @breed = breed
  #binding.pry
   end
-end
+
 
 end
